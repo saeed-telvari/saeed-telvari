@@ -1,9 +1,5 @@
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ### Hi there 👋
 
 About me:
@@ -38,9 +34,7 @@ About me:
 
 ****
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saeed-telvari&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saeed-telvari&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--
 **saeed-telvari/saeed-telvari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
