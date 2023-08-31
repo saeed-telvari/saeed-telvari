@@ -2,18 +2,18 @@
 ### Hi there 👋
 
 About me:
-- ⚡ I'm a Petroleum Engineering student & Programmer
-- 🔭 Working on my B.Sc. project
+- ⚡ I'm a Reservoir Engineering student & Programmer
+- 🔭 Working on my M.Sc. project
 - 🌱 Learning web developement by Django
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Saeed_Telvari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stelvari/)
 ****
 
 ### 📖 Academic Research Interests & specialties :
-- Pore Scale Modeling
-- Digital Rock & Image Processing
 - Machine Learning & Deep Learning Applications in Geo-Science & Geo-Energy
+- Numerical Simulation
+- Digital Rock & Image Processing
+- Pore Scale Modeling
 - Carbon Capture, Utilization & Storage
-- Multiphase Flow
 
 ****
 
@@ -31,12 +31,14 @@ About me:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
+
+
+<!-- Comments
 ****
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saeed-telvari&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
-<!-- Comments
 **saeed-telvari/saeed-telvari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
